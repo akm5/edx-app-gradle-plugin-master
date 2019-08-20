@@ -1,9 +1,0 @@
-repositories {
-    mavenCentral()
-}
-
-dependencies {
-    compile localGroovy()
-    compile gradleApi()
-    compile 'org.yaml:snakeyaml:1.14'
-}
